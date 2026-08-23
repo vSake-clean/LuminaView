@@ -1,0 +1,10 @@
+# Build artifacts
+LuminaView
+*.o
+*.moc
+moc_predefs.h
+Makefile*
+.qmake.stash
+
+# App-generated state
+imgui.ini

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=LuminaView
+Comment=Fast and lightweight image viewer
+Comment[pl]=Szybka przeglądarka obrazów
+Exec=/usr/local/bin/LuminaView %f
+Icon=LuminaView
+Terminal=false
+Categories=Graphics;Viewer;
+StartupNotify=true
+MimeType=image/jpeg;image/png;image/webp;image/gif;image/bmp;image/tiff;image/svg+xml;image/x-ico;image/vnd.microsoft.icon;image/x-portable-pixmap;image/x-portable-graymap;image/x-portable-bitmap;image/x-xpixmap;image/x-xbitmap;image/x-tga;image/vnd.radiance;image/x-dds;image/x-canon-cr2;image/x-nikon-nef;image/x-sony-arw;image/x-adobe-dng;image/x-olympus-orf;image/x-panasonic-rw2;image/x-pentax-pef;image/x-portable-anymap;image/x-xcf;

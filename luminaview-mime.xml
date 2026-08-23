@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="image/x-luminaview">
+    <glob pattern="*.raw" weight="50"/>
+    <glob pattern="*.cr2" weight="50"/>
+    <glob pattern="*.nef" weight="50"/>
+    <glob pattern="*.arw" weight="50"/>
+    <glob pattern="*.dng" weight="50"/>
+    <glob pattern="*.orf" weight="50"/>
+    <glob pattern="*.raf" weight="50"/>
+    <glob pattern="*.rw2" weight="50"/>
+    <glob pattern="*.pef" weight="50"/>
+    <glob pattern="*.tga" weight="50"/>
+    <glob pattern="*.dds" weight="50"/>
+    <glob pattern="*.ppm" weight="50"/>
+    <glob pattern="*.pgm" weight="50"/>
+    <glob pattern="*.pbm" weight="50"/>
+    <glob pattern="*.xpm" weight="50"/>
+    <glob pattern="*.xbm" weight="50"/>
+    <glob pattern="*.wbmp" weight="50"/>
+    <glob pattern="*.mng" weight="50"/>
+  </mime-type>
+</mime-info>
