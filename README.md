@@ -79,7 +79,7 @@ LuminaView ~/Pictures      # open a folder of images
 ## More projects by vSake
 
 - **[Fih](https://github.com/vSake-clean/Fih)** — programming language with a compiler written in pure x86-64 assembly, no libc
-- **[Szept](https://github.com/vSake-clean/Szept)** — serverless Android messenger
+- **[Szept](https://github.com/vSake-clean/Szept)** — end-to-end encrypted Android messenger with no server of its own (runs over Nostr relays)
 - **[LunarDraw](https://github.com/vSake-clean/LunarDraw)** — GTK3/Cairo drawing app with layers
 - **[StatusCycler](https://github.com/vSake-clean/StatusCycler)** — Vencord plugin that cycles your Discord custom status
 - **[vencord-AutoReply](https://github.com/vSake-clean/vencord-AutoReply)** — Vencord plugin for automatic replies with triggers and filters
