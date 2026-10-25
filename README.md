@@ -71,3 +71,17 @@ LuminaView                 # start with the drop-image placeholder
 LuminaView photo.png       # open an image (loads its containing folder)
 LuminaView ~/Pictures      # open a folder of images
 ```
+
+---
+
+## More projects by vSake
+
+- **[Fih](https://github.com/vSake-clean/Fih)** — programming language with a compiler written in pure x86-64 assembly, no libc
+- **[Szept](https://github.com/vSake-clean/Szept)** — serverless Android messenger
+- **[LunarDraw](https://github.com/vSake-clean/LunarDraw)** — GTK3/Cairo drawing app with layers
+- **[StatusCycler](https://github.com/vSake-clean/StatusCycler)** — Vencord plugin that cycles your Discord custom status
+- **[vencord-AutoReply](https://github.com/vSake-clean/vencord-AutoReply)** — Vencord plugin for automatic replies with triggers and filters
+- **[vencord-StickyNotes](https://github.com/vSake-clean/vencord-StickyNotes)** — Vencord plugin for sticky notes on Discord users
+- **[vencord-friendgroups](https://github.com/vSake-clean/vencord-friendgroups)** — Vencord plugin to group friends in the DM sidebar
+
+If you like this project, consider leaving a ⭐ — it really helps!
