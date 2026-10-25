@@ -4,6 +4,8 @@ A fast, lightweight image viewer for Linux built with Qt5. Single-file C++ sourc
 
 ![LuminaView](LuminaView.svg)
 
+![LuminaView screenshot](docs/screenshot.png)
+
 ## Features
 
 - **Smooth zooming** — mouse wheel, toolbar buttons, or keyboard; animated zoom with cubic easing, debounced fast→smooth resampling for responsive rendering
